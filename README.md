@@ -1,2 +1,0 @@
-# pomosense-privacy
-PomoSenseのプライパシーポリシー
